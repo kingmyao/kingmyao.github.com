@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[59],{828:function(t,e,s){"use strict";s.r(e);var n=s(1),i=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"demo-image"},[e("ds-image",{attrs:{src:"/logo.png",width:"100",height:"100"}})],1)}),[],!1,null,null,null);e.default=i.exports}}]);

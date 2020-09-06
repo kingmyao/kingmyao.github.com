@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[78],{836:function(t,n,i){"use strict";i.r(n);var s=i(1),e=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("ds-spin",[n("ds-icon",{staticStyle:{"font-size":"24px"},attrs:{slot:"indicator",type:"loading",spin:""},slot:"indicator"})],1)],1)}),[],!1,null,null,null);n.default=e.exports}}]);

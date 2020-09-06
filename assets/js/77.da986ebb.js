@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{833:function(s,t,n){"use strict";n.r(t);var e=n(1),i=Object(e.a)({},(function(){var s=this.$createElement,t=this._self._c||s;return t("div",[t("ds-spin",{attrs:{size:"small"}}),this._v(" "),t("ds-spin"),this._v(" "),t("ds-spin",{attrs:{size:"large"}})],1)}),[],!1,null,null,null);t.default=i.exports}}]);

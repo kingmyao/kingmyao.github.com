@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{822:function(e,n,t){"use strict";t.r(n);var s=t(1),l=Object(s.a)({},(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("ds-skeleton")],1)}),[],!1,null,null,null);n.default=l.exports}}]);
